@@ -31,10 +31,19 @@ jobs:
             README.md CONTRIBUTING.md
           fail: ${{ github.event_name == 'pull_request' }}
 
-      - name: Report broken links
+      # Update the open report instead of opening a new one every week.
+      - name: Find open report
+        id: report
         if: github.event_name != 'pull_request' && steps.lychee.outputs.exit_code != 0
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: echo "number=$(gh issue list --repo "$GITHUB_REPOSITORY" --label broken-links --state open --limit 1 --json number --jq '.[0].number // empty')" >> "$GITHUB_OUTPUT"
+
+      - name: Report broken links
+        if: steps.report.outcome == 'success'
         uses: peter-evans/create-issue-from-file@v6
         with:
           title: Broken links report
           content-filepath: ./lychee/out.md
           labels: broken-links
+          issue-number: ${{ steps.report.outputs.number }}
