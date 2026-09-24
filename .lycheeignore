@@ -1,0 +1,3 @@
+# Sites that work in browsers but fail strict checks. Keep a reason per entry.
+# aibuiltgames.com: server omits the intermediate TLS certificate (browsers fetch it themselves).
+^https://aibuiltgames\.com
