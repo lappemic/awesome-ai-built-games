@@ -2,7 +2,7 @@
 
 ![Awesome AI-Built Games](public/og-image.png)
 
-A curated list of playable games built with AI coding agents and vibe coding: Claude Code, Cursor, Codex, GPT, Gemini, Grok, Lovable and more. Most of their code was written by AI, and every one of them can be played right now, most in the browser.
+A curated list of playable games built with AI coding agents and vibe coding tools like Claude Code, Cursor, Codex, GPT, Gemini, Grok and Lovable. AI wrote most of each game's code, and every one is playable right now, most in the browser.
 
 **Built a game with AI?** [Submit it here](https://github.com/lappemic/awesome-ai-built-games/issues/new?template=submit-game.yml), no pull request needed.
 
@@ -97,10 +97,4 @@ A curated list of playable games built with AI coding agents and vibe coding: Cl
 
 ## Contributing
 
-Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first. They explain what gets listed and how to submit, either through a form (no pull request needed) or a pull request.
-
-Listed here? Add the badge to your project:
-
-```md
-[![Mentioned in Awesome AI-Built Games](https://awesome.re/mentioned-badge.svg)](https://github.com/lappemic/awesome-ai-built-games)
-```
+See the [contribution guidelines](CONTRIBUTING.md) for what gets listed, how to submit and the badge for listed games.
