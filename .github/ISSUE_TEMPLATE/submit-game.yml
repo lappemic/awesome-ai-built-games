@@ -1,0 +1,70 @@
+name: Submit a game
+description: Suggest a game built with AI for the list.
+title: "[Game]: "
+labels: ["submission"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for submitting! Every entry is reviewed by hand against the [criteria](https://github.com/lappemic/awesome-ai-built-games/blob/main/CONTRIBUTING.md#what-gets-in). This is a curated list, so not every game will be added.
+  - type: input
+    id: name
+    attributes:
+      label: Game name
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Playable URL
+      description: Where people can play it right now (browser link or download page).
+      placeholder: https://
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Short description
+      description: One sentence on what you actually do in the game.
+    validations:
+      required: true
+  - type: input
+    id: ai-tools
+    attributes:
+      label: AI tools used
+      placeholder: Claude Code, Cursor, GPT-5, Gemini, Lovable, …
+    validations:
+      required: true
+  - type: input
+    id: engine
+    attributes:
+      label: Engine / framework
+      placeholder: Three.js, Phaser, Canvas, Godot, Unity, …
+  - type: textarea
+    id: evidence
+    attributes:
+      label: How was AI used?
+      description: Roughly how much of the game was built with AI, and a link that shows it (post, devlog, README, jam page).
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Source code (optional)
+      placeholder: https://github.com/…
+  - type: input
+    id: creator
+    attributes:
+      label: Creator
+      description: Name plus X / GitHub / website, so people know who built it.
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checklist
+      options:
+        - label: The game is playable right now without a waitlist.
+          required: true
+        - label: Most of the code was written with AI tools.
+          required: true
