@@ -1,0 +1,70 @@
+name: Submit a game
+description: Suggest a game built with AI.
+title: "[Game]: "
+labels: ["submission"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Every entry is reviewed by hand against the [criteria](https://github.com/lappemic/awesome-ai-built-games/blob/main/CONTRIBUTING.md#what-gets-in), so not every game gets in.
+  - type: input
+    id: name
+    attributes:
+      label: Game name
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Playable URL
+      description: Browser link or download page, playable right now with no waitlist.
+      placeholder: https://
+    validations:
+      required: true
+  - type: input
+    id: description
+    attributes:
+      label: One-line description
+      description: What you do in the game.
+    validations:
+      required: true
+  - type: input
+    id: ai-tools
+    attributes:
+      label: AI tools used
+      placeholder: Claude Code, Cursor, GPT-5, Gemini, Lovable, …
+    validations:
+      required: true
+  - type: input
+    id: engine
+    attributes:
+      label: Engine / framework
+      placeholder: Three.js, Phaser, Canvas, Godot, Unity, …
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Proof of AI use
+      description: How much of the code AI wrote, plus a link that shows it (post, devlog, README, jam page).
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Source code
+      placeholder: https://github.com/…
+  - type: input
+    id: creator
+    attributes:
+      label: Creator
+      description: Name and a link (X, GitHub or website).
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checklist
+      options:
+        - label: The game is playable right now, with no waitlist.
+          required: true
+        - label: AI tools wrote most of the code.
+          required: true

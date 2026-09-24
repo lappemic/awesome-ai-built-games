@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Contribution guidelines
+    url: https://github.com/lappemic/awesome-ai-built-games/blob/main/CONTRIBUTING.md
+    about: What gets listed and how entries are formatted.
