@@ -36,7 +36,7 @@ A curated list of vibe-coded games: playable games built with AI coding agents l
 - [Quasar Saz](https://github.com/cleak/quasar-saz/releases/tag/v1.1) - Six-stage action game with a boss fight that Claude Code designed from a dog's random keystrokes. Built with Claude Code · Godot.
 - [Swingers](https://swing.offmylawn.com/) - Swing through a city with friends and compete to cause the most damage to critical infrastructure. Vibe Jam 2026 Most Unhinged award. Built with Three.js.
 - [Tanks AI](https://tanksai.com/) - Top-down tank battles across tiled terrain, with enemy tanks to destroy and power-ups to collect. Built with HTML5 Canvas.
-- [Three.js Quake](https://mrdoob.github.io/three-quake/) - Quake's shareware episode ported to the browser by the creator of Three.js, working with Claude. Built with Claude · Three.js.
+- [Three.js Quake](https://mrdoob.github.io/three-quake/) - Quake's shareware episode ported to the browser by the creator of Three.js. Built with Claude · Three.js.
 - [Undersphere](https://playundersphere.com/) - Multiplayer FPS fought on the inside of a spherical world with shifting gravity. Vibe Jam 2026 Unique Concept award. Built with Three.js.
 
 ### Racing & Vehicles
@@ -47,8 +47,8 @@ A curated list of vibe-coded games: playable games built with AI coding agents l
 - [Formula Minus One](https://fm1.moises.cloud/) - Futuristic racer inspired by F-Zero and Wipeout, rendered with WebGPU. Built with Codex, Claude · Three.js.
 - [FULL SEND](https://fullsend.game/) - Instant-loading racer with scenery from OpenStreetMap, online multiplayer and lap leaderboards. Vibe Jam 2026 Most Portal Transfers award. Built with Cursor, Claude · HTML5 Canvas.
 - [Mars Landing Simulator](https://marslanding.vercel.app/) - Fly a rocket between Mars bases, managing fuel, tilt and wind to land safely. Built with Three.js.
-- [Swervle](https://swervle.com/) - Wordle-style daily racing game with a new procedurally generated 90-second route every day. Built with GPT-5.6, Claude Opus 5 · Three.js.
-- [The Great Taxi Assignment](https://great-taxi-assignment.netlify.app/) - GTA-style taxi game where you pick up passengers around a 3D city and deliver them before time runs out. Vibe Jam 2025 winner. Built with Cursor, Claude 3.7 Sonnet · Three.js.
+- [Swervle](https://swervle.com/) - Wordle-style racing game with a new procedurally generated 90-second route every day. Built with GPT-5.6, Claude Opus 5 · Three.js.
+- [The Great Taxi Assignment](https://great-taxi-assignment.netlify.app/) - GTA-style taxi game where you ferry passengers across a 3D city before time runs out. Vibe Jam 2025 winner. Built with Cursor, Claude 3.7 Sonnet · Three.js.
 - [VibeSail](https://vibesail.com/) - Multiplayer sailing sim where you trim the sail to the wind, race daily and explore islands. Built with Cursor, Claude 3.7 Sonnet · Three.js.
 
 ### Adventure & Open Worlds
@@ -68,12 +68,12 @@ A curated list of vibe-coded games: playable games built with AI coding agents l
 - [AI2U - Guns & Girlfriends](https://helixngc7293.itch.io/gandg) - Red Alert-style strategy game with base building, nukes and three rival factions. AI Browser Game Jam 4 runner-up. Built with Claude Code, Gemini · Three.js.
 - [Almost Surgery](https://almostsurgery.ragim.dev/) - Darkly comic surgery sim where you saw, cut and electrocute patients for money. Vibe Jam 2026 Most Cursed award. Built with Godot.
 - [Emoji Sim](https://emojisim.com/) - Watch emoji villagers gather wood, wool and meat, and place buildings to grow the village. Built with HTML5 Canvas.
-- [Firewood Splitting Simulator](https://screen.toys/firewood/) - Tactile wood-chopping toy with a 3D-scanned stump, axe and logs and recorded sounds. Built with Claude · Three.js.
+- [Firewood Splitting Simulator](https://screen.toys/firewood/) - Tactile wood-chopping toy with a 3D-scanned stump, axe and logs, plus recorded sounds. Built with Claude · Three.js.
 - [Fishing](https://fishing.lureconcept.com/) - Sail across the open sea, cast lures for fish and spend coins on new lures. Built with Cursor, Claude, Grok · Three.js.
 - [Kanso](https://www.kansogame.com/) - Cultivate living digital bonsai trees in calm, detailed scenes. Vibe Jam 2026 Most Zen award. Built with Three.js.
 - [Macro Data Refinement](https://macro-data-refinement-five.vercel.app/) - Sort scary numbers into bins on a Lumon terminal, recreating the Macrodata Refinement work from Severance.
 - [Pyramid Wars](https://durian-arcade.itch.io/pyramid-wars) - Pixel-art clicker strategy game across ten battlefields, with booster packs of unit and ability cards. AI Browser Game Jam 3 winner. Built with Claude Opus.
-- [Vector Tango](https://www.vector-tango.com/play/) - Air traffic control simulator in 3D, guiding planes through busy airspace. Vibe Jam 2025 3rd place. Built with Three.js.
+- [Vector Tango](https://www.vector-tango.com/play/) - 3D air traffic control simulator where you guide planes through busy airspace. Vibe Jam 2025 3rd place. Built with Three.js.
 
 ### Puzzle, Word & Trivia
 
@@ -81,7 +81,7 @@ A curated list of vibe-coded games: playable games built with AI coding agents l
 - [3D Tetris](https://3d-tetris-platforms.lovable.app/) - Stack 3D tetrominoes on floating platforms and fill whole layers to clear them. Built with Lovable · Three.js.
 - [GeoSports](https://geosports.app/) - Daily sports-geography quiz where you pin the locations behind five trivia questions on a map. Built with Claude.
 - [Grid Golf](https://gridgolf.netlify.app/) - Grid-based golf where you pick one of eight directions, get random shot power and try to finish under par. Built with HTML5 Canvas.
-- [Ink Side Down](https://arkai.win/games/ink-side-down/) - Daily logic puzzle where you roll a cube whose inked face prints squares, inking only the marked cells. Designed and coded end-to-end by an autonomous AI agent. Built with Claude Code · HTML5 Canvas.
+- [Ink Side Down](https://arkai.win/games/ink-side-down/) - Daily logic puzzle where you roll a cube so its inked face prints only the marked squares. Designed and coded end-to-end by an autonomous AI agent. Built with Claude Code · HTML5 Canvas.
 - [One Step Late](https://arkai.win/games/one-step-late/) - Daily logic puzzle where your shadow repeats your previous move and walks into the holes you avoid. Designed and coded end-to-end by an autonomous AI agent. Built with Claude Code · HTML5 Canvas.
 - [Suika Game](https://suika.live/) - Drop and merge fruits in a physics jar to grow ever bigger fruits, with leaderboards. Built with Cursor, Claude · Matter.js.
 - [Tic-Tac Cricket](https://tictaccricket.netlify.app/) - Roll dice for cricket runs and place them on a 3×4 grid, where lines of three earn bonus runs.
@@ -118,7 +118,7 @@ A curated list of vibe-coded games: playable games built with AI coding agents l
 - [GameDaily.ai](https://gamedaily.ai/) - A brand-new AI-generated browser game published every day — the concept, code, art, and sound all created entirely by AI. Hundreds of free games to play instantly, no download or sign-up, browsable by genre.
 - [klyo games](https://games.klyo.pl/) - Browser games from independent developers, including games built with AI assistants, playable from a link with no install or account.
 - [OpenAI Developers Showcase: Games](https://developers.openai.com/showcase/games) - Official gallery of games built with Codex and GPT models, including the prompts behind them.
-- [Vibe Jam](https://vibejam.com/) - Annual browser game jam where most of the code must be written by AI, with over 2,000 entries from 2025 and 2026.
+- [Vibe Jam](https://vibejam.com/) - Annual browser game jam where AI must write most of the code, with over 2,000 entries across 2025 and 2026.
 - [vibecode.game](https://vibecode.game/vibe-coded-games) - Directory of vibe-coded games, filterable by AI tool, engine and genre.
 - [Whimcade](https://whimcade.com/) - An arcade of browser games created from one-paragraph prompts; an AI agent builds each game as a self-contained HTML5 bundle that creators can iterate on and publish. Free to play, no download or sign-up.
 
