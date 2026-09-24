@@ -61,7 +61,7 @@ A curated list of vibe-coded games: playable games built with AI coding agents l
 - [San Francisco -- The Game](https://sf.thijs.gg/) - Explore San Francisco rebuilt from Apple Maps data: climb buildings, take cars and play with others. Built with Codex · Three.js.
 - [Stellar Drift](https://stellar-drift.web.app/) - Mine asteroids for iron, gold and crystal, upgrade your ship and travel through wormholes. Built with Three.js.
 - [Tiny Skies](https://tinyskies.vercel.app/) - Cozy multiplayer exploration of a tiny world by biplane, magic carpet or boat. Vibe Jam 2026 Most Polished award. Built with Cursor · Three.js.
-- [World of ClaudeCraft](https://worldofclaudecraft.com/) - Open-source, classic-style browser MMORPG with nine classes, quests, dungeons, raids and PvP. Built with Claude · Three.js.
+- [World of ClaudeCraft](https://worldofclaudecraft.com/) - Open-source, classic-style browser MMORPG with nine classes, quests, dungeons, raids and PvP. Has an optional crypto token. Built with Claude · Three.js.
 
 ### Simulation & Strategy
 
