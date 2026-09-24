@@ -1,0 +1,49 @@
+name: Check links
+
+on:
+  schedule:
+    - cron: "0 6 * * 1"
+  workflow_dispatch:
+  pull_request:
+    paths:
+      - README.md
+      - CONTRIBUTING.md
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      # Many game hosts block bots, so 403 and 429 count as reachable.
+      - name: Check links
+        id: lychee
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: >-
+            --no-progress --max-retries 3 --timeout 30
+            --accept '200..=299,403,429'
+            --user-agent 'Mozilla/5.0 (compatible; awesome-ai-built-games link check)'
+            README.md CONTRIBUTING.md
+          fail: ${{ github.event_name == 'pull_request' }}
+
+      # Update the open report instead of opening a new one every week.
+      - name: Find open report
+        id: report
+        if: github.event_name != 'pull_request' && steps.lychee.outputs.exit_code != 0
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: echo "number=$(gh issue list --repo "$GITHUB_REPOSITORY" --label broken-links --state open --limit 1 --json number --jq '.[0].number // empty')" >> "$GITHUB_OUTPUT"
+
+      - name: Report broken links
+        if: steps.report.outcome == 'success'
+        uses: peter-evans/create-issue-from-file@v6
+        with:
+          title: Broken links report
+          content-filepath: ./lychee/out.md
+          labels: broken-links
+          issue-number: ${{ steps.report.outputs.number }}
