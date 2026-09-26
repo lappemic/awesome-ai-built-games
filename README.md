@@ -97,6 +97,7 @@ A curated list of vibe-coded games: playable games built with AI coding agents l
 - [Flappi Bird](https://flappi-bird.vercel.app/) - Flappy Bird in 3D with procedural obstacles, bee swarms, combos and power-ups. Built with Cursor, Claude, Grok · Three.js.
 - [Ophidian](https://ophidian.vercel.app/) - Minimalist Snake with on-screen arrow keys for mobile. Built with Claude · PixiJS.
 - [Oyster Arcade](https://arcade.oyster.to/) - CRT-style arcade cabinet with four games, including Invaders and Carrier Defense, and shared leaderboards. Built with Claude Code · HTML5 Canvas.
+- [Pocket Salvage](https://pocket-salvage.web.app/) - Drive a swinging crane, swap between a magnet and a claw, and sort scrap into bins before the clock runs out, through five weather levels. Built with Claude, Codex · Godot.
 - [Pong Arcade](https://pong-game-omega.vercel.app/) - Retro Pong against the computer or a second local player, with touch controls on mobile. Built with HTML5 Canvas.
 - [Space Defenders](https://jasonleow.com/space-defenders/) - Space Invaders-style shooter generated from a single prompt. Built with Claude 3.7 Sonnet · HTML5 Canvas.
 - [Super Jumper](https://super-jumper-game.web.app/) - Mario-style platformer level with physics jumping, enemies, boost items and a finish line. Built with Matter.js.
