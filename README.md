@@ -49,6 +49,7 @@ A curated list of vibe-coded games: playable games built with AI coding agents l
 - [FULL SEND](https://fullsend.game/) - Instant-loading racer with scenery from OpenStreetMap, online multiplayer and lap leaderboards. Vibe Jam 2026 Most Portal Transfers award. Built with Cursor, Claude · HTML5 Canvas.
 - [Lift & Coast](https://lift-and-coast.vercel.app/) - Race a 2026-rules Formula One car on real circuits through a full race weekend, managing tires, ERS and weather. Built with Three.js.
 - [Mars Landing Simulator](https://marslanding.vercel.app/) - Fly a rocket between Mars bases, managing fuel, tilt and wind to land safely. Built with Three.js.
+- [Neon Zenith](https://zenith.billpwchan.art/) - Fly a hover car out of a rainy night market through a neon Kowloon of 9,373 buildings, chasing medal time trials and hidden data shards. Built with Claude Code · Three.js.
 - [Swervle](https://swervle.com/) - Wordle-style racing game with a new procedurally generated 90-second route every day. Built with GPT-5.6, Claude Opus 5 · Three.js.
 - [The Great Taxi Assignment](https://great-taxi-assignment.netlify.app/) - GTA-style taxi game where you ferry passengers across a 3D city before time runs out. Vibe Jam 2025 winner. Built with Cursor, Claude 3.7 Sonnet · Three.js.
 - [VibeSail](https://vibesail.com/) - Multiplayer sailing sim where you trim the sail to the wind, race daily and explore islands. Built with Cursor, Claude 3.7 Sonnet · Three.js.
