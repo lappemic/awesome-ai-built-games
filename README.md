@@ -25,6 +25,7 @@ A curated list of vibe-coded games: playable games built with AI coding agents l
 ### Action & Shooters
 
 - [AI Bomber Game](https://bomberman-bice.vercel.app/) - Bomberman-style 3D arena where you drop bombs to clear crates and enemies, with switchable bomb types. Built with Three.js.
+- [Bash Fighter](https://bashfighter.com/) - Smash-style platform fighter where up to 20 players and bots knock each other off one arena, on phone or desktop. Open source, built and run end to end by an AI agent. Built with Claude · PixiJS.
 - [ClaudeSpace](https://ladegeraet.github.io/claudespace/) - Top-down space shooter with shields and shockwaves against asteroids and enemy ships. Built with Phaser.
 - [CSAnyWhere](https://csany.vercel.app) - Counter-Strike-style shooter with aim drills, spray practice and a Dust II bot deathmatch. Built with Three.js.
 - [DOOMscroll](https://gisnep.com/doomscroll/) - Doom-style shooter you control only by scrolling, with real news headlines on the in-game plaques. Built with GPT-5 · HTML5 Canvas.
