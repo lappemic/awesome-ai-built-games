@@ -78,6 +78,7 @@ A curated list of vibe-coded games: playable games built with AI coding agents l
 - [Orbits](https://onomeo.com/demo/orbits.html) - Gravity sandbox where you fling planets around a sun and watch them settle into stable paths or fall into the sun. Built with Claude Code · HTML5 Canvas.
 - [Plug & Prosper](https://smallloopworks.itch.io/plug-prosper) - Run a charging kiosk, wiring customers' devices into wall sockets with cables and adapters, and upgrade the shop between days. AI Browser Game Jam 4 winner. Built with Codex · Godot.
 - [Pyramid Wars](https://durian-arcade.itch.io/pyramid-wars) - Pixel-art clicker strategy game across ten battlefields, with booster packs of unit and ability cards. AI Browser Game Jam 3 winner. Built with Claude Opus.
+- [Spinlings](https://github.com/416rehman/spinlings) - Collect, trade and duel pixel creatures inside Claude Code 2.1.287+. Built with Claude · Codex · Custom TypeScript engine.
 - [Vector Tango](https://www.vector-tango.com/play/) - 3D air traffic control simulator where you guide planes through busy airspace. Vibe Jam 2025 3rd place. Built with Three.js.
 
 ### Puzzle, Word & Trivia
