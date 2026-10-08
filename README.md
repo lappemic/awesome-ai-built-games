@@ -59,6 +59,7 @@ Hand-picked AI games, grouped by genre. Each entry says what you do in the game.
 
 - [A Game About Capybaras Delivering Food](https://capybara-vibejam26.leocoout.dev/) - Cozy multiplayer open world where capybaras deliver food orders around a city by scooter. Vibe Jam 2026 winner. Built with Claude Code · Three.js.
 - [Forest Escape](https://www.escape.alexandre-grisey.fr/) - Search a dark forest by flashlight for seven blue flowers while spirits hunt you. Built with Cursor, Claude · Three.js.
+- [Halcyon](https://halcyon.billpwchan.art) - Walk, swim, sail and fly around a tropical atoll from sunrise to bioluminescent night, with an FFT ocean, a peak from real lidar and 43,000 scanned plants. Built with Claude Code · Three.js.
 - [HALDANE-4](https://haldane4.denisbondare.com/) - Short ASCII horror story about a solo descent beneath the Antarctic ice shelf. Vibe Jam 2026 Most Original award. Built with Cursor · HTML5 Canvas.
 - [Island Adventure](https://ja.sperdeboer.nl/island/) - Survive a plane crash on an island by gathering, crafting, fishing, cooking and building a shelter. Built with Cursor · Three.js.
 - [Legends of Future Past](https://lofp.metavert.io/) - Lost 1992 CompuServe multiplayer adventure, rebuilt from surviving scripts, manuals and recordings. Built with Claude Code.
