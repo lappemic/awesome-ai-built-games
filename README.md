@@ -87,6 +87,7 @@ Hand-picked AI games, grouped by genre. Each entry says what you do in the game.
 
 - [20-0](https://www.20-0.com/) - Draft an all-time NFL roster from random franchise eras and chase a perfect season. Built with Claude, Kimi.
 - [3D Tetris](https://3d-tetris-platforms.lovable.app/) - Stack 3D tetrominoes on floating platforms and fill whole layers to clear them. Built with Lovable · Three.js.
+- [After Hours: The Call from Room 214](https://tandemcasebook.itch.io/after-hours-room-214) - Two-player mystery where each player sees different clues on their own screen and you talk them through to trace a call from a room with no phone. First chapter free. Built with Codex · Three.js.
 - [GeoSports](https://geosports.app/) - Daily sports-geography quiz where you pin the locations behind five trivia questions on a map. Built with Claude.
 - [Grid Golf](https://gridgolf.netlify.app/) - Grid-based golf where you pick one of eight directions, get random shot power and try to finish under par. Built with HTML5 Canvas.
 - [Ink Side Down](https://arkai.win/games/ink-side-down/) - Daily logic puzzle where you roll a cube so its inked face prints only the marked squares. Designed and coded end-to-end by an autonomous AI agent. Built with Claude Code · HTML5 Canvas.
