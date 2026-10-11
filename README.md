@@ -6,8 +6,6 @@ A curated list of the best vibe-coded games: playable games built with AI coding
 
 **Built a game with AI?** [Submit it here](https://github.com/lappemic/awesome-ai-built-games/issues/new?template=submit-game.yml), no pull request needed.
 
-> For more projects and tools, visit [michaelscheiwiller.com](https://michaelscheiwiller.com)
-
 ## Contents
 
 - [Games](#games)
