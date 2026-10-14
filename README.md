@@ -78,6 +78,7 @@ Hand-picked AI games, grouped by genre. Each entry says what you do in the game.
 - [Orbits](https://onomeo.com/demo/orbits.html) - Gravity sandbox where you fling planets around a sun and watch them settle into stable paths or fall into the sun. Built with Claude Code · HTML5 Canvas.
 - [Plug & Prosper](https://smallloopworks.itch.io/plug-prosper) - Run a charging kiosk, wiring customers' devices into wall sockets with cables and adapters, and upgrade the shop between days. AI Browser Game Jam 4 winner. Built with Codex · Godot.
 - [Pyramid Wars](https://durian-arcade.itch.io/pyramid-wars) - Pixel-art clicker strategy game across ten battlefields, with booster packs of unit and ability cards. AI Browser Game Jam 3 winner. Built with Claude Opus.
+- [SimCFB](https://simcfb.com/) - College football coaching game where you recruit, bid for NIL, work the transfer portal and call plays, then watch every snap in 3D. Built with Claude Code, Codex · Three.js.
 - [Spinlings](https://github.com/416rehman/spinlings) - Collect, fuse, trade and duel one-of-a-kind pixel creatures that battle in a band above the prompt while Claude Code works. Built with Claude, Codex.
 - [Vector Tango](https://www.vector-tango.com/play/) - 3D air traffic control simulator where you guide planes through busy airspace. Vibe Jam 2025 3rd place. Built with Three.js.
 
