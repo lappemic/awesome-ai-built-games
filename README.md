@@ -78,6 +78,7 @@ Hand-picked AI games, grouped by genre. Each entry says what you do in the game.
 - [Orbits](https://onomeo.com/demo/orbits.html) - Gravity sandbox where you fling planets around a sun and watch them settle into stable paths or fall into the sun. Built with Claude Code · HTML5 Canvas.
 - [Plug & Prosper](https://smallloopworks.itch.io/plug-prosper) - Run a charging kiosk, wiring customers' devices into wall sockets with cables and adapters, and upgrade the shop between days. AI Browser Game Jam 4 winner. Built with Codex · Godot.
 - [Pyramid Wars](https://durian-arcade.itch.io/pyramid-wars) - Pixel-art clicker strategy game across ten battlefields, with booster packs of unit and ability cards. AI Browser Game Jam 3 winner. Built with Claude Opus.
+- [SimCFB](https://simcfb.com/) - College football coaching game where you recruit, bid for NIL, work the transfer portal and call plays, then watch every snap in 3D. Built with Claude Code, Codex · Three.js.
 - [Spinlings](https://github.com/416rehman/spinlings) - Collect, fuse, trade and duel one-of-a-kind pixel creatures that battle in a band above the prompt while Claude Code works. Built with Claude, Codex.
 - [Vector Tango](https://www.vector-tango.com/play/) - 3D air traffic control simulator where you guide planes through busy airspace. Vibe Jam 2025 3rd place. Built with Three.js.
 
@@ -92,7 +93,6 @@ Hand-picked AI games, grouped by genre. Each entry says what you do in the game.
 - [One Step Late](https://arkai.win/games/one-step-late/) - Daily logic puzzle where your shadow repeats your previous move and walks into the holes you avoid. Designed and coded end-to-end by an autonomous AI agent. Built with Claude Code · HTML5 Canvas.
 - [Suika Game](https://suika.live/) - Drop and merge fruits in a physics jar to grow ever bigger fruits, with leaderboards. Built with Cursor, Claude · Matter.js.
 - [Tic-Tac Cricket](https://tictaccricket.netlify.app/) - Roll dice for cricket runs and place them on a 3×4 grid, where lines of three earn bonus runs.
-- [Tidal Loom](https://waytzhang.github.io/tidal-loom/) - Rotate channels on three floating islands to bring water to every garden without spills. Built with Codex · Three.js.
 - [Type Battles](https://www.typebattles.com/) - Typing game with combos, shields, ten levels, a final boss and daily challenges.
 - [WenWare](https://wen-ware.com/) - Time-travel GeoGuessr: explore 360° historical scenes and guess both the place and the year. Vibe Jam 2026 3rd place and Most Played award. Built with Codex · Three.js.
 - [Wildlife](https://wildlife-game.netlify.app/) - Tap groups of matching colored tiles within 25 turns, where bigger groups score more.
