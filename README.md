@@ -61,6 +61,7 @@ Hand-picked AI games, grouped by genre. Each entry says what you do in the game.
 - [HALDANE-4](https://haldane4.denisbondare.com/) - Short ASCII horror story about a solo descent beneath the Antarctic ice shelf. Vibe Jam 2026 Most Original award. Built with Cursor · HTML5 Canvas.
 - [Island Adventure](https://ja.sperdeboer.nl/island/) - Survive a plane crash on an island by gathering, crafting, fishing, cooking and building a shelter. Built with Cursor · Three.js.
 - [Legends of Future Past](https://lofp.metavert.io/) - Lost 1992 CompuServe multiplayer adventure, rebuilt from surviving scripts, manuals and recordings. Built with Claude Code.
+- [MAGICAL.EXE](https://magical-exe.redmint.studio/) - Cozy magical-girl RPG in a fake terminal, where you type commands to explore your city and clear corrupted dungeons, with dice-based combat and an AI narrator. Built with Claude Code.
 - [San Francisco -- The Game](https://sf.thijs.gg/) - Explore San Francisco rebuilt from Apple Maps data: climb buildings, take cars and play with others. Built with Codex · Three.js.
 - [Stellar Drift](https://stellar-drift.web.app/) - Mine asteroids for iron, gold and crystal, upgrade your ship and travel through wormholes. Built with Three.js.
 - [Tiny Skies](https://tinyskies.vercel.app/) - Cozy multiplayer exploration of a tiny world by biplane, magic carpet or boat. Vibe Jam 2026 Most Polished award. Built with Cursor · Three.js.
