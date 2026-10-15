@@ -33,6 +33,16 @@ Add the badge to your project:
 [![Mentioned in Awesome AI-Built Games](https://awesome.re/mentioned-badge.svg)](https://github.com/lappemic/awesome-ai-built-games)
 ```
 
+## Sponsorship
+
+The list may carry sponsors, under these rules:
+
+- At most one sponsor line, clearly labelled "Sponsor", at the bottom of the README. Never inside a category.
+- Sponsorship never decides which games get in, their order or their wording. A sponsor's own games and tools go through the same review as everyone else's.
+- No tracking pixels or affiliate links in entries.
+
+Interested? [Open an issue](https://github.com/lappemic/awesome-ai-built-games/issues/new) or contact the maintainer through their GitHub profile.
+
 ## Removals and fixes
 
 Dead link, wrong info, or want your own game removed? [Open an issue](https://github.com/lappemic/awesome-ai-built-games/issues/new) or send a pull request.
