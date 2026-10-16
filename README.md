@@ -46,6 +46,7 @@ Hand-picked AI games, grouped by genre. Each entry says what you do in the game.
 - [Flight Simulator 2025](https://fly.pieter.com/) - Multiplayer flight sim where you take off, fly over a shared world and dogfight other players. Built with Cursor, Grok 3 · Three.js.
 - [Formula Minus One](https://fm1.moises.cloud/) - Futuristic racer inspired by F-Zero and Wipeout, rendered with WebGPU. Built with Codex, Claude · Three.js.
 - [FULL SEND](https://fullsend.game/) - Instant-loading racer with scenery from OpenStreetMap, online multiplayer and lap leaderboards. Vibe Jam 2026 Most Portal Transfers award. Built with Cursor, Claude · HTML5 Canvas.
+- [HOLESHOT](https://everygamemade.com/play/holeshot.html) - Stage on the tree, cut a light and shift a drag car yourself, with physics checked against quarter-mile formulas. Built with Claude Code · Three.js.
 - [Lift & Coast](https://lift-and-coast.vercel.app/) - Race a 2026-rules Formula One car on real circuits through a full race weekend, managing tires, ERS and weather. Built with Three.js.
 - [Mars Landing Simulator](https://marslanding.vercel.app/) - Fly a rocket between Mars bases, managing fuel, tilt and wind to land safely. Built with Three.js.
 - [Neon Zenith](https://zenith.billpwchan.art/) - Fly a hover car out of a rainy night market through a neon Kowloon of 9,373 buildings, chasing medal time trials and hidden data shards. Built with Claude Code · Three.js.
@@ -71,11 +72,14 @@ Hand-picked AI games, grouped by genre. Each entry says what you do in the game.
 
 - [AI2U - Guns & Girlfriends](https://helixngc7293.itch.io/gandg) - Red Alert-style strategy game with base building, nukes and three rival factions. AI Browser Game Jam 4 runner-up. Built with Claude Code, Gemini · Three.js.
 - [Almost Surgery](https://almostsurgery.ragim.dev/) - Darkly comic surgery sim where you saw, cut and electrocute patients for money. Vibe Jam 2026 Most Cursed award. Built with Godot.
+- [ANTE](https://everygamemade.com/play/ante.html) - Poker-hand roguelike deckbuilder that shows exactly what a hand scores before you play it, with shareable seeds. Built with Claude Code.
+- [CLASP](https://everygamemade.com/play/swarm.html) - Boardless hex tile game with no captures where you surround the enemy Core to win. Built with Claude Code.
 - [Emoji Sim](https://emojisim.com/) - Watch emoji villagers gather wood, wool and meat, and place buildings to grow the village. Built with HTML5 Canvas.
 - [Firewood Splitting Simulator](https://screen.toys/firewood/) - Tactile wood-chopping toy with a 3D-scanned stump, axe and logs, plus recorded sounds. Built with Claude · Three.js.
 - [Fishing](https://fishing.lureconcept.com/) - Sail across the open sea, cast lures for fish and spend coins on new lures. Built with Cursor, Claude, Grok · Three.js.
 - [Kanso](https://www.kansogame.com/) - Cultivate living digital bonsai trees in calm, detailed scenes. Vibe Jam 2026 Most Zen award. Built with Three.js.
 - [Macro Data Refinement](https://macro-data-refinement-five.vercel.app/) - Sort scary numbers into bins on a Lumon terminal, recreating the Macrodata Refinement work from Severance.
+- [MOGUL](https://everygamemade.com/play/mogul.html) - Buy, auction and trade property in online rooms or against self-play neural-net bots, with dice you can verify after the game. Built with Claude Code.
 - [Orbits](https://onomeo.com/demo/orbits.html) - Gravity sandbox where you fling planets around a sun and watch them settle into stable paths or fall into the sun. Built with Claude Code · HTML5 Canvas.
 - [Plug & Prosper](https://smallloopworks.itch.io/plug-prosper) - Run a charging kiosk, wiring customers' devices into wall sockets with cables and adapters, and upgrade the shop between days. AI Browser Game Jam 4 winner. Built with Codex · Godot.
 - [Pyramid Wars](https://durian-arcade.itch.io/pyramid-wars) - Pixel-art clicker strategy game across ten battlefields, with booster packs of unit and ability cards. AI Browser Game Jam 3 winner. Built with Claude Opus.
@@ -91,6 +95,7 @@ Hand-picked AI games, grouped by genre. Each entry says what you do in the game.
 - [GeoSports](https://geosports.app/) - Daily sports-geography quiz where you pin the locations behind five trivia questions on a map. Built with Claude.
 - [Grid Golf](https://gridgolf.netlify.app/) - Grid-based golf where you pick one of eight directions, get random shot power and try to finish under par. Built with HTML5 Canvas.
 - [Ink Side Down](https://arkai.win/games/ink-side-down/) - Daily logic puzzle where you roll a cube so its inked face prints only the marked squares. Designed and coded end-to-end by an autonomous AI agent. Built with Claude Code · HTML5 Canvas.
+- [LEXEME](https://everygamemade.com/play/lexicon.html) - Crossword tile game against bots that run a real move generator over a 172,820-word public-domain dictionary. Built with Claude Code.
 - [One Step Late](https://arkai.win/games/one-step-late/) - Daily logic puzzle where your shadow repeats your previous move and walks into the holes you avoid. Designed and coded end-to-end by an autonomous AI agent. Built with Claude Code · HTML5 Canvas.
 - [Suika Game](https://suika.live/) - Drop and merge fruits in a physics jar to grow ever bigger fruits, with leaderboards. Built with Cursor, Claude · Matter.js.
 - [Tic-Tac Cricket](https://tictaccricket.netlify.app/) - Roll dice for cricket runs and place them on a 3×4 grid, where lines of three earn bonus runs.
