@@ -41,6 +41,7 @@ Hand-picked AI games, grouped by genre. Each entry says what you do in the game.
 
 ### Racing & Vehicles
 
+- [backroad rally](https://jason-c-dev.github.io/backroad-rally/) - Top-down rally game with a diorama look: race five cars from four eras over six stages through rain, snow and different times of day, in a short career against ghost rivals. Built with Claude Code · Three.js.
 - [Draw Line Racing](https://drawlineracing.chyuang.com/) - Draw a racing line around country-shaped circuits, then watch your car drive it against the clock. Built with HTML5 Canvas.
 - [Fanto's Mega-Mart](https://fantos-megamart.vercel.app/) - Multiplayer shopping race at rocket speed through a haunted grocery store, with ghost replays. Vibe Jam 2026 2nd place. Built with Codex · Three.js.
 - [Flight Simulator 2025](https://fly.pieter.com/) - Multiplayer flight sim where you take off, fly over a shared world and dogfight other players. Built with Cursor, Grok 3 · Three.js.
