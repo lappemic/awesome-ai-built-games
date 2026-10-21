@@ -71,6 +71,7 @@ Hand-picked AI games, grouped by genre. Each entry says what you do in the game.
 
 ### Simulation & Strategy
 
+- [2 Minute Drill Game](https://2minutedrillgame.app/) - Call every play in a real late-game NFL drive and see each call graded on win probability against the best option and the real head coach's choice. Built with Claude Code · Next.js.
 - [AI2U - Guns & Girlfriends](https://helixngc7293.itch.io/gandg) - Red Alert-style strategy game with base building, nukes and three rival factions. AI Browser Game Jam 4 runner-up. Built with Claude Code, Gemini · Three.js.
 - [Almost Surgery](https://almostsurgery.ragim.dev/) - Darkly comic surgery sim where you saw, cut and electrocute patients for money. Vibe Jam 2026 Most Cursed award. Built with Godot.
 - [Emoji Sim](https://emojisim.com/) - Watch emoji villagers gather wood, wool and meat, and place buildings to grow the village. Built with HTML5 Canvas.
@@ -78,6 +79,7 @@ Hand-picked AI games, grouped by genre. Each entry says what you do in the game.
 - [Fishing](https://fishing.lureconcept.com/) - Sail across the open sea, cast lures for fish and spend coins on new lures. Built with Cursor, Claude, Grok · Three.js.
 - [Kanso](https://www.kansogame.com/) - Cultivate living digital bonsai trees in calm, detailed scenes. Vibe Jam 2026 Most Zen award. Built with Three.js.
 - [Macro Data Refinement](https://macro-data-refinement-five.vercel.app/) - Sort scary numbers into bins on a Lumon terminal, recreating the Macrodata Refinement work from Severance.
+- [Orbit Foundry](https://kimchistan.itch.io/orbit-foundry) - Arrange machines around a star, combine neighbouring boosts and time reactor pulses to grow an orbital factory. Built with Codex · LÖVE.
 - [Orbits](https://onomeo.com/demo/orbits.html) - Gravity sandbox where you fling planets around a sun and watch them settle into stable paths or fall into the sun. Built with Claude Code · HTML5 Canvas.
 - [Plug & Prosper](https://smallloopworks.itch.io/plug-prosper) - Run a charging kiosk, wiring customers' devices into wall sockets with cables and adapters, and upgrade the shop between days. AI Browser Game Jam 4 winner. Built with Codex · Godot.
 - [Pyramid Wars](https://durian-arcade.itch.io/pyramid-wars) - Pixel-art clicker strategy game across ten battlefields, with booster packs of unit and ability cards. AI Browser Game Jam 3 winner. Built with Claude Opus.
@@ -94,6 +96,7 @@ Hand-picked AI games, grouped by genre. Each entry says what you do in the game.
 - [Grid Golf](https://gridgolf.netlify.app/) - Grid-based golf where you pick one of eight directions, get random shot power and try to finish under par. Built with HTML5 Canvas.
 - [Ink Side Down](https://arkai.win/games/ink-side-down/) - Daily logic puzzle where you roll a cube so its inked face prints only the marked squares. Designed and coded end-to-end by an autonomous AI agent. Built with Claude Code · HTML5 Canvas.
 - [One Step Late](https://arkai.win/games/one-step-late/) - Daily logic puzzle where your shadow repeats your previous move and walks into the holes you avoid. Designed and coded end-to-end by an autonomous AI agent. Built with Claude Code · HTML5 Canvas.
+- [Sortaballs](https://sortaballs.vercel.app/) - Ball-sort puzzle with ten board modes and over 1,000 levels, each benchmarked against an optimal solver. Built with DeepSeek, OpenCode · React.
 - [Suika Game](https://suika.live/) - Drop and merge fruits in a physics jar to grow ever bigger fruits, with leaderboards. Built with Cursor, Claude · Matter.js.
 - [Tic-Tac Cricket](https://tictaccricket.netlify.app/) - Roll dice for cricket runs and place them on a 3×4 grid, where lines of three earn bonus runs.
 - [Type Battles](https://www.typebattles.com/) - Typing game with combos, shields, ten levels, a final boss and daily challenges.
@@ -112,6 +115,7 @@ Hand-picked AI games, grouped by genre. Each entry says what you do in the game.
 - [Pong Arcade](https://pong-game-omega.vercel.app/) - Retro Pong against the computer or a second local player, with touch controls on mobile. Built with HTML5 Canvas.
 - [Space Defenders](https://jasonleow.com/space-defenders/) - Space Invaders-style shooter generated from a single prompt. Built with Claude 3.7 Sonnet · HTML5 Canvas.
 - [Super Jumper](https://super-jumper-game.web.app/) - Mario-style platformer level with physics jumping, enemies, boost items and a finish line. Built with Matter.js.
+- [Worrrrld!](https://www.worrrrld.com/) - Play a 30-second minigame, then send a friend a link to play the exact same round, and the better score wins. Built with Claude Code · Next.js.
 
 ## Tools & Frameworks
 
