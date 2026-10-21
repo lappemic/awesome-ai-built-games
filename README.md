@@ -115,6 +115,7 @@ Hand-picked AI games, grouped by genre. Each entry says what you do in the game.
 - [Pong Arcade](https://pong-game-omega.vercel.app/) - Retro Pong against the computer or a second local player, with touch controls on mobile. Built with HTML5 Canvas.
 - [Space Defenders](https://jasonleow.com/space-defenders/) - Space Invaders-style shooter generated from a single prompt. Built with Claude 3.7 Sonnet · HTML5 Canvas.
 - [Super Jumper](https://super-jumper-game.web.app/) - Mario-style platformer level with physics jumping, enemies, boost items and a finish line. Built with Matter.js.
+- [Worrrrld!](https://www.worrrrld.com/) - Play a 30-second minigame, then send a friend a link to play the exact same round, and the better score wins. Built with Claude Code · Next.js.
 
 ## Tools & Frameworks
 
