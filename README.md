@@ -96,6 +96,7 @@ Hand-picked AI games, grouped by genre. Each entry says what you do in the game.
 - [Grid Golf](https://gridgolf.netlify.app/) - Grid-based golf where you pick one of eight directions, get random shot power and try to finish under par. Built with HTML5 Canvas.
 - [Ink Side Down](https://arkai.win/games/ink-side-down/) - Daily logic puzzle where you roll a cube so its inked face prints only the marked squares. Designed and coded end-to-end by an autonomous AI agent. Built with Claude Code · HTML5 Canvas.
 - [One Step Late](https://arkai.win/games/one-step-late/) - Daily logic puzzle where your shadow repeats your previous move and walks into the holes you avoid. Designed and coded end-to-end by an autonomous AI agent. Built with Claude Code · HTML5 Canvas.
+- [Sortaballs](https://sortaballs.vercel.app/) - Ball-sort puzzle with ten board modes and over 1,000 levels, each benchmarked against an optimal solver. Built with DeepSeek, OpenCode · React.
 - [Suika Game](https://suika.live/) - Drop and merge fruits in a physics jar to grow ever bigger fruits, with leaderboards. Built with Cursor, Claude · Matter.js.
 - [Tic-Tac Cricket](https://tictaccricket.netlify.app/) - Roll dice for cricket runs and place them on a 3×4 grid, where lines of three earn bonus runs.
 - [Type Battles](https://www.typebattles.com/) - Typing game with combos, shields, ten levels, a final boss and daily challenges.
