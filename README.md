@@ -144,8 +144,8 @@ Game jams and sites with more AI-generated games. Some publish games from a sing
 - [klyo games](https://games.klyo.pl/) - Browser games from independent developers, including games built with AI assistants, playable from a link with no install or account.
 - [Neon Gamewall](https://neongamewall.com/) - Hand-picked free browser games, more than half credited to AI tools by their own creators, each with a page naming the tool and linking to the creator's site.
 - [OpenAI Developers Showcase: Games](https://developers.openai.com/showcase/games) - Official gallery of games built with Codex and GPT models, including the prompts behind them.
-- [Vibe Jam](https://vibejam.com/) - Annual browser game jam where AI must write most of the code, with over 2,000 entries across 2025 and 2026.
 - [Player1AI](https://player1ai.com/) - Curated directory of 500+ free browser games made with AI, filterable by phone, controller and multiplayer, with every Play link going to the creator's own page.
+- [Vibe Jam](https://vibejam.com/) - Annual browser game jam where AI must write most of the code, with over 2,000 entries across 2025 and 2026.
 - [vibecode.game](https://vibecode.game/vibe-coded-games) - Directory of vibe-coded games, filterable by AI tool, engine and genre.
 - [Whimcade](https://whimcade.com/) - An arcade of browser games created from one-paragraph prompts; an AI agent builds each game as a self-contained HTML5 bundle that creators can iterate on and publish. Free to play, no download or sign-up.
 
