@@ -52,6 +52,7 @@ Hand-picked AI games, grouped by genre. Each entry says what you do in the game.
 - [Neon Zenith](https://zenith.billpwchan.art/) - Fly a hover car out of a rainy night market through a neon Kowloon of 9,373 buildings, chasing medal time trials and hidden data shards. Built with Claude Code · Three.js.
 - [Swervle](https://swervle.com/) - Wordle-style racing game with a new procedurally generated 90-second route every day. Built with GPT-5.6, Claude Opus 5 · Three.js.
 - [The Great Taxi Assignment](https://great-taxi-assignment.netlify.app/) - GTA-style taxi game where you ferry passengers across a 3D city before time runs out. Vibe Jam 2025 winner. Built with Cursor, Claude 3.7 Sonnet · Three.js.
+- [Turbo Rumble](https://turborumble.rastwork.pl/) - Party racer where 2–8 players drift and fire at rivals on three 3D tracks, using keyboards, bots or phones as controllers. Built with Codex · Three.js, Rapier.
 - [VibeSail](https://vibesail.com/) - Multiplayer sailing sim where you trim the sail to the wind, race daily and explore islands. Built with Cursor, Claude 3.7 Sonnet · Three.js.
 
 ### Adventure & Open Worlds
@@ -77,6 +78,7 @@ Hand-picked AI games, grouped by genre. Each entry says what you do in the game.
 - [Emoji Sim](https://emojisim.com/) - Watch emoji villagers gather wood, wool and meat, and place buildings to grow the village. Built with HTML5 Canvas.
 - [Firewood Splitting Simulator](https://screen.toys/firewood/) - Tactile wood-chopping toy with a 3D-scanned stump, axe and logs, plus recorded sounds. Built with Claude · Three.js.
 - [Fishing](https://fishing.lureconcept.com/) - Sail across the open sea, cast lures for fish and spend coins on new lures. Built with Cursor, Claude, Grok · Three.js.
+- [Harness Hollow](https://harvest-hollow.up.railway.app/) - Co-op farming game for two, where you plant, raise animals and craft on one shared farm in real time, on desktop or phone. Built with Claude Code, Codex · Three.js.
 - [Kanso](https://www.kansogame.com/) - Cultivate living digital bonsai trees in calm, detailed scenes. Vibe Jam 2026 Most Zen award. Built with Three.js.
 - [Macro Data Refinement](https://macro-data-refinement-five.vercel.app/) - Sort scary numbers into bins on a Lumon terminal, recreating the Macrodata Refinement work from Severance.
 - [MOGUL](https://everygamemade.com/play/mogul.html) - Buy, auction and trade property in online rooms or against self-play neural-net bots, with dice you can verify after the game. Built with Claude Code.
@@ -143,6 +145,7 @@ Game jams and sites with more AI-generated games. Some publish games from a sing
 - [Neon Gamewall](https://neongamewall.com/) - Hand-picked free browser games, more than half credited to AI tools by their own creators, each with a page naming the tool and linking to the creator's site.
 - [OpenAI Developers Showcase: Games](https://developers.openai.com/showcase/games) - Official gallery of games built with Codex and GPT models, including the prompts behind them.
 - [Vibe Jam](https://vibejam.com/) - Annual browser game jam where AI must write most of the code, with over 2,000 entries across 2025 and 2026.
+- [Player1AI](https://player1ai.com/) - Curated directory of 500+ free browser games made with AI, filterable by phone, controller and multiplayer, with every Play link going to the creator's own page.
 - [vibecode.game](https://vibecode.game/vibe-coded-games) - Directory of vibe-coded games, filterable by AI tool, engine and genre.
 - [Whimcade](https://whimcade.com/) - An arcade of browser games created from one-paragraph prompts; an AI agent builds each game as a self-contained HTML5 bundle that creators can iterate on and publish. Free to play, no download or sign-up.
 
