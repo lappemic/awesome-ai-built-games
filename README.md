@@ -77,6 +77,7 @@ Hand-picked AI games, grouped by genre. Each entry says what you do in the game.
 - [2 Minute Drill Game](https://2minutedrillgame.app/) - Call every play in a real late-game NFL drive and see each call graded on win probability against the best option and the real head coach's choice. Built with Claude Code · Next.js.
 - [AI2U - Guns & Girlfriends](https://helixngc7293.itch.io/gandg) - Red Alert-style strategy game with base building, nukes and three rival factions. AI Browser Game Jam 4 runner-up. Built with Claude Code, Gemini · Three.js.
 - [Almost Surgery](https://almostsurgery.ragim.dev/) - Darkly comic surgery sim where you saw, cut and electrocute patients for money. Vibe Jam 2026 Most Cursed award. Built with Godot.
+- [ASCII Chess](https://germanbragin.com/ascii-chess/) - Chess drawn in ASCII art with an optional fog of war, played against Stockfish at three levels, a friend by link or a random opponent online. Built with Claude Code · React.
 - [Emoji Sim](https://emojisim.com/) - Watch emoji villagers gather wood, wool and meat, and place buildings to grow the village. Built with HTML5 Canvas.
 - [Expo Tycoon](https://expotycoon.com/) - Idle tycoon game where you grow a trade show from one table to a full hall, with shared seasons that follow the moon and a net-worth leaderboard. Built with Claude Code · Three.js.
 - [Firewood Splitting Simulator](https://screen.toys/firewood/) - Tactile wood-chopping toy with a 3D-scanned stump, axe and logs, plus recorded sounds. Built with Claude · Three.js.
