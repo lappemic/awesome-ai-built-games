@@ -128,6 +128,7 @@ Agent setups, MCP servers, starter kits and assets for vibe coding games with Cl
 - [Godot-MCP](https://github.com/IvanMurzak/Godot-MCP) - Open-source MCP server connecting AI agents to the Godot Editor and runtime (Godot 4.x, C#).
 - [klyo games MCP](https://github.com/krastranseu-lang/klyo-games-mcp) - Hosted MCP server that lets Claude, ChatGPT, Cursor or Gemini CLI publish an HTML5 game with its own address, leaderboards and player clips.
 - [Playable Gift](https://playablegift.com/) - Hosted game maker that uses AI to create a personal browser game about a recipient from details the sender supplies, with a public MCP server for AI assistants.
+- [Ritmo](https://github.com/typeonce-dev/ritmo) - Open-source, type-safe ECS runtime for TypeScript games, built for coding agents: wrong code doesn't compile and the error names the fix, with an agent skill, one-prompt setup, headless devtools and an llms.txt.
 - [Sketchfab](https://sketchfab.com/) - A platform for publishing, sharing, and discovering 3D, VR and AR content. Useful for game developers to showcase 3D models and interactive experiences.
 - [Unity-MCP](https://github.com/IvanMurzak/Unity-MCP) - Open-source MCP server connecting AI agents to the Unity Editor and runtime, with 100+ built-in tools.
 - [Unreal-MCP](https://github.com/IvanMurzak/Unreal-MCP) - Open-source MCP server connecting AI agents to Unreal Engine 5.7, editor and runtime (C++ plugin + .NET sidecar).
