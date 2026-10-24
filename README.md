@@ -131,6 +131,7 @@ Hand-picked AI games, grouped by genre. Each entry says what you do in the game.
 Agent setups, MCP servers, starter kits and assets for vibe coding games with Claude Code, Cursor and other AI agents.
 
 - [Claude Code Game Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) - Claude Code setup that simulates a game studio with dozens of specialized agents and workflow skills.
+- [deed.page](https://deed.page/) - Free static hosting for agents: Claude Code, Cursor or another AI agent publishes an HTML5 game or a build folder to its own HTTPS address with one request, no account, through a remote MCP server or an [agent skill](https://github.com/f-o-x11/deed-page-skill).
 - [Godot-MCP](https://github.com/IvanMurzak/Godot-MCP) - Open-source MCP server connecting AI agents to the Godot Editor and runtime (Godot 4.x, C#).
 - [klyo games MCP](https://github.com/krastranseu-lang/klyo-games-mcp) - Hosted MCP server that lets Claude, ChatGPT, Cursor or Gemini CLI publish an HTML5 game with its own address, leaderboards and player clips.
 - [Playable Gift](https://playablegift.com/) - Hosted game maker that uses AI to create a personal browser game about a recipient from details the sender supplies, with a public MCP server for AI assistants.
