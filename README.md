@@ -77,6 +77,7 @@ Hand-picked AI games, grouped by genre. Each entry says what you do in the game.
 - [2 Minute Drill Game](https://2minutedrillgame.app/) - Call every play in a real late-game NFL drive and see each call graded on win probability against the best option and the real head coach's choice. Built with Claude Code · Next.js.
 - [AI2U - Guns & Girlfriends](https://helixngc7293.itch.io/gandg) - Red Alert-style strategy game with base building, nukes and three rival factions. AI Browser Game Jam 4 runner-up. Built with Claude Code, Gemini · Three.js.
 - [Almost Surgery](https://almostsurgery.ragim.dev/) - Darkly comic surgery sim where you saw, cut and electrocute patients for money. Vibe Jam 2026 Most Cursed award. Built with Godot.
+- [Cream's Cozy Cottage](https://creamcozycottage.itch.io/creams-cozy-cottage) - Merge matching materials to craft treats, beds and toys and care for Cream the cat, in a free browser demo. Built with Codex · Godot.
 - [Emoji Sim](https://emojisim.com/) - Watch emoji villagers gather wood, wool and meat, and place buildings to grow the village. Built with HTML5 Canvas.
 - [Expo Tycoon](https://expotycoon.com/) - Idle tycoon game where you grow a trade show from one table to a full hall, with shared seasons that follow the moon and a net-worth leaderboard. Built with Claude Code · Three.js.
 - [Firewood Splitting Simulator](https://screen.toys/firewood/) - Tactile wood-chopping toy with a 3D-scanned stump, axe and logs, plus recorded sounds. Built with Claude · Three.js.
@@ -102,6 +103,7 @@ Hand-picked AI games, grouped by genre. Each entry says what you do in the game.
 - [After Hours: The Call from Room 214](https://tandemcasebook.itch.io/after-hours-room-214) - Two-player mystery where each player sees different clues on their own screen and you talk them through to trace a call from a room with no phone. First chapter free. Built with Codex · Three.js.
 - [GeoSports](https://geosports.app/) - Daily sports-geography quiz where you pin the locations behind five trivia questions on a map. Built with Claude.
 - [Grid Golf](https://gridgolf.netlify.app/) - Grid-based golf where you pick one of eight directions, get random shot power and try to finish under par. Built with HTML5 Canvas.
+- [Hack://TheSystem](https://wietske.itch.io/hackthesystem) - Unsettling text-driven horror game where you try to hack a mysterious system through four puzzle stages and a final boss. Built with Claude Opus 5.5 · Unity.
 - [Ink Side Down](https://arkai.win/games/ink-side-down/) - Daily logic puzzle where you roll a cube so its inked face prints only the marked squares. Designed and coded end-to-end by an autonomous AI agent. Built with Claude Code · HTML5 Canvas.
 - [Loop Heist](https://artigram.cafeboon.com/p/tn2w69k) - Puzzle game across six vaults where your previous run comes back as a ghost that holds pressure plates down while you walk through the door. Built with Claude · HTML5 Canvas.
 - [One Step Late](https://arkai.win/games/one-step-late/) - Daily logic puzzle where your shadow repeats your previous move and walks into the holes you avoid. Designed and coded end-to-end by an autonomous AI agent. Built with Claude Code · HTML5 Canvas.
@@ -122,6 +124,7 @@ Hand-picked AI games, grouped by genre. Each entry says what you do in the game.
 - [Oyster Arcade](https://arcade.oyster.to/) - CRT-style arcade cabinet with four games, including Invaders and Carrier Defense, and shared leaderboards. Built with Claude Code · HTML5 Canvas.
 - [Pocket Salvage](https://pocket-salvage.web.app/) - Drive a swinging crane, swap between a magnet and a claw, and sort scrap into bins before the clock runs out, through five weather levels. Built with Claude, Codex · Godot.
 - [Pong Arcade](https://pong-game-omega.vercel.app/) - Retro Pong against the computer or a second local player, with touch controls on mobile. Built with HTML5 Canvas.
+- [Second Tail](https://para1992.itch.io/second-tail) - Platformer where you guide two pet rats home through a cold city, swapping mid-air between one rat's double jump and the other's ram. Built with Claude Code, Codex · Unity.
 - [Space Defenders](https://jasonleow.com/space-defenders/) - Space Invaders-style shooter generated from a single prompt. Built with Claude 3.7 Sonnet · HTML5 Canvas.
 - [Super Jumper](https://super-jumper-game.web.app/) - Mario-style platformer level with physics jumping, enemies, boost items and a finish line. Built with Matter.js.
 - [Worrrrld!](https://www.worrrrld.com/) - Play a 30-second minigame, then send a friend a link to play the exact same round, and the better score wins. Built with Claude Code · Next.js.
