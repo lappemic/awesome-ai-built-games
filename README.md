@@ -164,6 +164,7 @@ Game jams and sites with more AI-generated games. Some publish games from a sing
 
 - [Awesome AI Game](https://github.com/bowen-aigame/awesome-ai-game) - Games where AI powers the gameplay itself, such as AI characters and generated worlds.
 - [Awesome AI Game Generation](https://github.com/Anil-matcha/awesome-ai-game-generation) - Tools, models and research for generating games with AI.
+- [RespawnStack](https://respawnstack.com) - Free directory of pricing, commercial-use and ownership terms for AI game-dev tools (source-cited).
 - [Awesome AI Games](https://github.com/aviaryan/awesome-ai-games) - Classic-style games remade or built from scratch with AI, playable in the browser.
 - [Awesome Vibe Coding](https://github.com/filipecalegario/awesome-vibe-coding) - References for vibe coding, collaborating with AI to write code.
 
