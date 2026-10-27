@@ -67,6 +67,7 @@ Hand-picked AI games, grouped by genre. Each entry says what you do in the game.
 - [Island Adventure](https://ja.sperdeboer.nl/island/) - Survive a plane crash on an island by gathering, crafting, fishing, cooking and building a shelter. Built with Cursor · Three.js.
 - [Legends of Future Past](https://lofp.metavert.io/) - Lost 1992 CompuServe multiplayer adventure, rebuilt from surviving scripts, manuals and recordings. Built with Claude Code.
 - [MAGICAL.EXE](https://magical-exe.redmint.studio/) - Cozy magical-girl RPG in a fake terminal, where you type commands to explore your city and clear corrupted dungeons, with dice-based combat and an AI narrator. Built with Claude Code.
+- [Rogue Memory](https://quantumcodemonk.itch.io/rogue-memory) - First-person roguelike where a deleted AI recovers memory fragments across five procedurally generated layers, with turn-based combat and three endings. AI Browser Game Jam 1 joint winner. Built with Claude · HTML5 Canvas.
 - [San Francisco -- The Game](https://sf.thijs.gg/) - Explore San Francisco rebuilt from Apple Maps data: climb buildings, take cars and play with others. Built with Codex · Three.js.
 - [Stellar Drift](https://stellar-drift.web.app/) - Mine asteroids for iron, gold and crystal, upgrade your ship and travel through wormholes. Built with Three.js.
 - [Tiny Skies](https://tinyskies.vercel.app/) - Cozy multiplayer exploration of a tiny world by biplane, magic carpet or boat. Vibe Jam 2026 Most Polished award. Built with Cursor · Three.js.
@@ -95,6 +96,8 @@ Hand-picked AI games, grouped by genre. Each entry says what you do in the game.
 - [SimCFB](https://simcfb.com/) - College football coaching game where you recruit, bid for NIL, work the transfer portal and call plays, then watch every snap in 3D. Built with Claude Code, Codex · Three.js.
 - [Spinlings](https://github.com/416rehman/spinlings) - Collect, fuse, trade and duel one-of-a-kind pixel creatures that battle in a band above the prompt while Claude Code works. Built with Claude, Codex.
 - [Vector Tango](https://www.vector-tango.com/play/) - 3D air traffic control simulator where you guide planes through busy airspace. Vibe Jam 2025 3rd place. Built with Three.js.
+- [VybeCiv](https://vaigames.com/vybeciv/) - Turn-based 4X where you build cities on Earth until the planet becomes one tile of the Solar System, and the Solar System one tile of the Galaxy. Built with Claude Code · PixiJS.
+- [VybeNomad](https://vaigames.com/vybenomad/) - Cozy life sim where you take remote gigs, build side-project apps and travel between nine cities to reach $10,000 without burning out. Built with Claude Code · Three.js.
 
 ### Puzzle, Word & Trivia
 
@@ -105,6 +108,7 @@ Hand-picked AI games, grouped by genre. Each entry says what you do in the game.
 - [Grid Golf](https://gridgolf.netlify.app/) - Grid-based golf where you pick one of eight directions, get random shot power and try to finish under par. Built with HTML5 Canvas.
 - [Hack://TheSystem](https://wietske.itch.io/hackthesystem) - Unsettling text-driven horror game where you try to hack a mysterious system through four puzzle stages and a final boss. Built with Claude Opus 5.5 · Unity.
 - [Ink Side Down](https://arkai.win/games/ink-side-down/) - Daily logic puzzle where you roll a cube so its inked face prints only the marked squares. Designed and coded end-to-end by an autonomous AI agent. Built with Claude Code · HTML5 Canvas.
+- [Jigsy](https://jigsy.app/) - Daily piece-fitting puzzle where you rotate and also scale polyomino pieces to fill three new grids every day. Built with Claude.
 - [Loop Heist](https://artigram.cafeboon.com/p/tn2w69k) - Puzzle game across six vaults where your previous run comes back as a ghost that holds pressure plates down while you walk through the door. Built with Claude · HTML5 Canvas.
 - [One Step Late](https://arkai.win/games/one-step-late/) - Daily logic puzzle where your shadow repeats your previous move and walks into the holes you avoid. Designed and coded end-to-end by an autonomous AI agent. Built with Claude Code · HTML5 Canvas.
 - [Sortaballs](https://sortaballs.vercel.app/) - Ball-sort puzzle with ten board modes and over 1,000 levels, each benchmarked against an optimal solver. Built with DeepSeek, OpenCode · React.
@@ -117,6 +121,7 @@ Hand-picked AI games, grouped by genre. Each entry says what you do in the game.
 
 ### Arcade & Retro
 
+- [AI WORMS](https://seymour8glass.itch.io/ai-worms) - Tap the glowing-eyed worms possessing your toaster, TV and lawnmower before they tunnel away, across eleven worlds that end in a boss fight in the Cloud. Built with Claude · HTML5 Canvas.
 - [Asteroid Assault](https://asteroid-ep9.pages.dev/) - Asteroids remake where you rotate, thrust and shoot rocks, grab power-ups and chase a global leaderboard. Built with HTML5 Canvas.
 - [BeetleJump](https://beetlejump.com/) - Multiplayer platformer race to climb to the top and become king. Vibe Jam 2026 Rage-Quit award. Built with Three.js.
 - [Flappi Bird](https://flappi-bird.vercel.app/) - Flappy Bird in 3D with procedural obstacles, bee swarms, combos and power-ups. Built with Cursor, Claude, Grok · Three.js.
