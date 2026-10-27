@@ -108,7 +108,7 @@ Hand-picked AI games, grouped by genre. Each entry says what you do in the game.
 - [Grid Golf](https://gridgolf.netlify.app/) - Grid-based golf where you pick one of eight directions, get random shot power and try to finish under par. Built with HTML5 Canvas.
 - [Hack://TheSystem](https://wietske.itch.io/hackthesystem) - Unsettling text-driven horror game where you try to hack a mysterious system through four puzzle stages and a final boss. Built with Claude Opus 5.5 · Unity.
 - [Ink Side Down](https://arkai.win/games/ink-side-down/) - Daily logic puzzle where you roll a cube so its inked face prints only the marked squares. Designed and coded end-to-end by an autonomous AI agent. Built with Claude Code · HTML5 Canvas.
-- [Jigsy](https://jigsy.app/) - Daily piece-fitting puzzle where you rotate and also scale polyomino pieces to fill three new grids every day. Built with Claude.
+- [Jigsy](https://jigsy.app/) - Daily piece-fitting puzzle where you rotate and scale polyomino pieces to fill three new grids. Built with Claude.
 - [Loop Heist](https://artigram.cafeboon.com/p/tn2w69k) - Puzzle game across six vaults where your previous run comes back as a ghost that holds pressure plates down while you walk through the door. Built with Claude · HTML5 Canvas.
 - [One Step Late](https://arkai.win/games/one-step-late/) - Daily logic puzzle where your shadow repeats your previous move and walks into the holes you avoid. Designed and coded end-to-end by an autonomous AI agent. Built with Claude Code · HTML5 Canvas.
 - [Sortaballs](https://sortaballs.vercel.app/) - Ball-sort puzzle with ten board modes and over 1,000 levels, each benchmarked against an optimal solver. Built with DeepSeek, OpenCode · React.
