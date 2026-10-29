@@ -34,6 +34,7 @@ Hand-picked AI games, grouped by genre. Each entry says what you do in the game.
 - [KÖTTBULLAR METAL](https://kottbullar-metal.vercel.app/) - Survive 15 minutes in a mosh pit where the death metal lyrics are IKEA product names. Vibe Jam 2026 Funniest Game award. Built with HTML5 Canvas.
 - [Null Range](https://nullrange.com/) - Multiplayer first-person space dogfights inspired by Elite: Dangerous, with sonar, boost and lasers. Vibe Jam 2026 Best Art Direction award. Built with Cursor · Three.js.
 - [Quasar Saz](https://github.com/cleak/quasar-saz/releases/tag/v1.1) - Six-stage action game with a boss fight that Claude Code designed from a dog's random keystrokes. Built with Claude Code · Godot.
+- [Rose & Blade](https://danielv8.itch.io/rose-and-blade) - Physics sword fighting where every knight is an active ragdoll and you swing the blade with your mouse, solo, in co-op or in peer-to-peer fights of up to 16 players. Built with Claude Code · Three.js, Rapier.
 - [Spirit Call](https://spirit-call.typeonce.dev/) - Top-down action game for phones where you switch between three elemental spirits in four-minute fights, dodging blows and setting off element bursts. Built with Claude Code, Codex · Three.js.
 - [Swingers](https://swing.offmylawn.com/) - Swing through a city with friends and compete to cause the most damage to critical infrastructure. Vibe Jam 2026 Most Unhinged award. Built with Three.js.
 - [Tanks AI](https://tanksai.com/) - Top-down tank battles across tiled terrain, with enemy tanks to destroy and power-ups to collect. Built with HTML5 Canvas.
@@ -164,6 +165,7 @@ Game jams and sites with more AI-generated games. Some publish games from a sing
 - [Vibe Jam](https://vibejam.com/) - Annual browser game jam where AI must write most of the code, with over 2,000 entries across 2025 and 2026.
 - [vibecode.game](https://vibecode.game/vibe-coded-games) - Directory of vibe-coded games, filterable by AI tool, engine and genre.
 - [Whimcade](https://whimcade.com/) - An arcade of browser games created from one-paragraph prompts; an AI agent builds each game as a self-contained HTML5 bundle that creators can iterate on and publish. Free to play, no download or sign-up.
+- [Zadely](https://zadely.com/) - Hand-checked directory of free browser games built with AI coding agents, with pages crediting each game's creator, AI tools and engine, and Play links to the creator's own site.
 
 ## Related Lists
 
