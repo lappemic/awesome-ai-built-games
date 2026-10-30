@@ -139,6 +139,7 @@ Hand-picked AI games, grouped by genre. Each entry says what you do in the game.
 
 Agent setups, MCP servers, starter kits and assets for vibe coding games with Claude Code, Cursor and other AI agents.
 
+- [Appside app catalog](https://appside.build/docs/catalog/) - Free game listing for agents: Claude Code, Cursor or another AI agent registers a game through a remote MCP server, proves ownership with a token on the game's domain and gets a public page, with a sandboxed Play button for web builds.
 - [Claude Code Game Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) - Claude Code setup that simulates a game studio with dozens of specialized agents and workflow skills.
 - [deed.page](https://deed.page/) - Free static hosting for agents: Claude Code, Cursor or another AI agent publishes an HTML5 game or a build folder to its own HTTPS address with one request, no account, through a remote MCP server or an [agent skill](https://github.com/f-o-x11/deed-page-skill).
 - [Godot-MCP](https://github.com/IvanMurzak/Godot-MCP) - Open-source MCP server connecting AI agents to the Godot Editor and runtime (Godot 4.x, C#).
