@@ -148,6 +148,7 @@ Agent setups, MCP servers, starter kits and assets for vibe coding games with Cl
 - [Sketchfab](https://sketchfab.com/) - A platform for publishing, sharing, and discovering 3D, VR and AR content. Useful for game developers to showcase 3D models and interactive experiences.
 - [Unity-MCP](https://github.com/IvanMurzak/Unity-MCP) - Open-source MCP server connecting AI agents to the Unity Editor and runtime, with 100+ built-in tools.
 - [Unreal-MCP](https://github.com/IvanMurzak/Unreal-MCP) - Open-source MCP server connecting AI agents to Unreal Engine 5.7, editor and runtime (C++ plugin + .NET sidecar).
+- [Vibe Gaming Interactive Playbook](https://github.com/TripoGrowthLab/vibe-gaming-interactive-playbook) - Copy-paste prompt that has Claude Code, Codex or Cursor design a small Three.js browser game, build a playable greybox, then swap in 3D models made in Tripo Studio, with three open-source example games.
 - [viber3d](https://github.com/instructa/viber3d) - A modern starter kit for 3D browser games powered by React Three Fiber and Three.js.
 
 ## Directories
