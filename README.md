@@ -77,6 +77,7 @@ Hand-picked AI games, grouped by genre. Each entry says what you do in the game.
 ### Simulation & Strategy
 
 - [2 Minute Drill Game](https://2minutedrillgame.app/) - Call every play in a real late-game NFL drive and see each call graded on win probability against the best option and the real head coach's choice. Built with Claude Code · Next.js.
+- [AI Axis & Allies](https://hayneian000.github.io/axis-allies-ai/) - Play Axis & Allies-style strategy in the browser on the 1942 world board or a smaller America free-for-all, in hot-seat or against LLM generals that negotiate and can break their deals. Built with Muse · TypeScript, Vite.
 - [AI2U - Guns & Girlfriends](https://helixngc7293.itch.io/gandg) - Red Alert-style strategy game with base building, nukes and three rival factions. AI Browser Game Jam 4 runner-up. Built with Claude Code, Gemini · Three.js.
 - [Almost Surgery](https://almostsurgery.ragim.dev/) - Darkly comic surgery sim where you saw, cut and electrocute patients for money. Vibe Jam 2026 Most Cursed award. Built with Godot.
 - [Cream's Cozy Cottage](https://creamcozycottage.itch.io/creams-cozy-cottage) - Merge matching materials to craft treats, beds and toys and care for Cream the cat, in a free browser demo. Built with Codex · Godot.
