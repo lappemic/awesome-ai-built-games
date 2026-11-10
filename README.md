@@ -172,6 +172,7 @@ Game jams and sites with more AI-generated games. Some publish games from a sing
 - [Awesome AI Game](https://github.com/bowen-aigame/awesome-ai-game) - Games where AI powers the gameplay itself, such as AI characters and generated worlds.
 - [Awesome AI Game Generation](https://github.com/Anil-matcha/awesome-ai-game-generation) - Tools, models and research for generating games with AI.
 - [Awesome AI Games](https://github.com/aviaryan/awesome-ai-games) - Classic-style games remade or built from scratch with AI, playable in the browser.
+- [Awesome Fable 5.2](https://github.com/fengyiqicoder/awesome-fable-5.2) - Games, 3D worlds and web pages built with Claude Fable 5.2, each with a GIF preview and a link to play or watch.
 - [Awesome Vibe Coding](https://github.com/filipecalegario/awesome-vibe-coding) - References for vibe coding, collaborating with AI to write code.
 
 ## Contributing
