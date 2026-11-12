@@ -146,6 +146,7 @@ Agent setups, MCP servers, starter kits and assets for vibe coding games with Cl
 - [Playable Gift](https://playablegift.com/) - Hosted game maker that uses AI to create a personal browser game about a recipient from details the sender supplies, with a public MCP server for AI assistants.
 - [Ritmo](https://github.com/typeonce-dev/ritmo) - Open-source, type-safe ECS runtime for TypeScript games, built for coding agents: wrong code doesn't compile and the error names the fix, with an agent skill, one-prompt setup, headless devtools and an llms.txt.
 - [Sketchfab](https://sketchfab.com/) - A platform for publishing, sharing, and discovering 3D, VR and AR content. Useful for game developers to showcase 3D models and interactive experiences.
+- [SpriteForge](https://www.spriteforge.tech/game-kit) - Hosted MCP server and Claude Code plugin that draws a matching pixel-art kit for the game an agent is building: hero, enemies, items, tiles and animations in one style, saved into the project as PNGs and sprite sheets.
 - [Unity-MCP](https://github.com/IvanMurzak/Unity-MCP) - Open-source MCP server connecting AI agents to the Unity Editor and runtime, with 100+ built-in tools.
 - [Unreal-MCP](https://github.com/IvanMurzak/Unreal-MCP) - Open-source MCP server connecting AI agents to Unreal Engine 5.7, editor and runtime (C++ plugin + .NET sidecar).
 - [viber3d](https://github.com/instructa/viber3d) - A modern starter kit for 3D browser games powered by React Three Fiber and Three.js.
