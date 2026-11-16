@@ -90,6 +90,7 @@ Hand-picked AI games, grouped by genre. Each entry says what you do in the game.
 - [Kanso](https://www.kansogame.com/) - Cultivate living digital bonsai trees in calm, detailed scenes. Vibe Jam 2026 Most Zen award. Built with Three.js.
 - [Macro Data Refinement](https://macro-data-refinement-five.vercel.app/) - Sort scary numbers into bins on a Lumon terminal, recreating the Macrodata Refinement work from Severance.
 - [MOGUL](https://everygamemade.com/play/mogul.html) - Buy, auction and trade property in online rooms or against self-play neural-net bots, with dice you can verify after the game. Built with Claude Code.
+- [Next, Please!](https://robertchaba.github.io/next-please/) - Examine patients, check paperwork and stamp fitness-for-work certificates under bureaucratic and political pressure in a darkly comic clinic sim set in 1983 Poland. Built with Codex.
 - [Orbit Foundry](https://kimchistan.itch.io/orbit-foundry) - Arrange machines around a star, combine neighbouring boosts and time reactor pulses to grow an orbital factory. Built with Codex · LÖVE.
 - [Orbits](https://onomeo.com/demo/orbits.html) - Gravity sandbox where you fling planets around a sun and watch them settle into stable paths or fall into the sun. Built with Claude Code · HTML5 Canvas.
 - [Otherlife / 人生岔路](https://lancerlsy.github.io/life-crossroads/) - Chinese-language pixel life sim where you draw a birth and live a life shaped by relationships, spending, travel and branching timelines. Built with Codex · React, HTML5 Canvas.
