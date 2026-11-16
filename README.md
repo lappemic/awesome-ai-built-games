@@ -27,6 +27,7 @@ Hand-picked AI games, grouped by genre. Each entry says what you do in the game.
 - [AI Bomber Game](https://bomberman-bice.vercel.app/) - Bomberman-style 3D arena where you drop bombs to clear crates and enemies, with switchable bomb types. Built with Three.js.
 - [Bash Fighter](https://bashfighter.com/) - Smash-style platform fighter where up to 20 players and bots knock each other off one arena, on phone or desktop. Open source, built and run end to end by an AI agent. Built with Claude · PixiJS.
 - [ClaudeSpace](https://ladegeraet.github.io/claudespace/) - Top-down space shooter with shields and shockwaves against asteroids and enemy ships. Built with Phaser.
+- [Cookiesaner](https://cookiesaner.itch.io/demo) - Survivor-like bullet heaven starring the creator's dog, who auto-fires ćevapi, eats Balkan food to grow through five belly stages and rolls through the horde on a full belly. Free browser demo. Built with Godot.
 - [DOOMscroll](https://gisnep.com/doomscroll/) - Doom-style shooter you control only by scrolling, with real news headlines on the in-game plaques. Built with GPT-5 · HTML5 Canvas.
 - [Dyson Defender](https://dyson-defender.vercel.app/) - Fly around a Dyson sphere and shoot down waves of alien ships before they reach it. Built with Cursor, Claude, Grok, gptme · Three.js.
 - [Eyrie](https://playeyrie.com/) - Drop-in co-op wave roguelike where you catch spirits, feed the shrine and fight the obelisk. Vibe Jam 2026 Most Atmospheric award. Built with Three.js.
