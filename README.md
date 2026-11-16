@@ -81,6 +81,7 @@ Hand-picked AI games, grouped by genre. Each entry says what you do in the game.
 - [AI2U - Guns & Girlfriends](https://helixngc7293.itch.io/gandg) - Red Alert-style strategy game with base building, nukes and three rival factions. AI Browser Game Jam 4 runner-up. Built with Claude Code, Gemini · Three.js.
 - [Almost Surgery](https://almostsurgery.ragim.dev/) - Darkly comic surgery sim where you saw, cut and electrocute patients for money. Vibe Jam 2026 Most Cursed award. Built with Godot.
 - [Cream's Cozy Cottage](https://creamcozycottage.itch.io/creams-cozy-cottage) - Merge matching materials to craft treats, beds and toys and care for Cream the cat, in a free browser demo. Built with Codex · Godot.
+- [Dou Dizhu](https://doudizhu.pocketplay.win/) - The Chinese three-player card game Fight the Landlord: bid to become the landlord, then the two farmers team up against them, with computer players, a random online table or friends by room code. Built with Claude Code.
 - [Emoji Sim](https://emojisim.com/) - Watch emoji villagers gather wood, wool and meat, and place buildings to grow the village. Built with HTML5 Canvas.
 - [Expo Tycoon](https://expotycoon.com/) - Idle tycoon game where you grow a trade show from one table to a full hall, with shared seasons that follow the moon and a net-worth leaderboard. Built with Claude Code · Three.js.
 - [Firewood Splitting Simulator](https://screen.toys/firewood/) - Tactile wood-chopping toy with a 3D-scanned stump, axe and logs, plus recorded sounds. Built with Claude · Three.js.
