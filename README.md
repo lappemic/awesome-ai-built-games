@@ -126,6 +126,7 @@ Hand-picked AI games, grouped by genre. Each entry says what you do in the game.
 - [Asteroid Assault](https://asteroid-ep9.pages.dev/) - Asteroids remake where you rotate, thrust and shoot rocks, grab power-ups and chase a global leaderboard. Built with HTML5 Canvas.
 - [BeetleJump](https://beetlejump.com/) - Multiplayer platformer race to climb to the top and become king. Vibe Jam 2026 Rage-Quit award. Built with Three.js.
 - [Flappi Bird](https://flappi-bird.vercel.app/) - Flappy Bird in 3D with procedural obstacles, bee swarms, combos and power-ups. Built with Cursor, Claude, Grok · Three.js.
+- [Gravity](https://gravity.hertzmc.com/) - Grow a little planet with eyes from pebble to black hole by eating smaller space rocks, across six levels with boss fights plus an Endless mode, on phone or desktop. Built with Claude Code · HTML5 Canvas.
 - [Ophidian](https://ophidian.vercel.app/) - Minimalist Snake with on-screen arrow keys for mobile. Built with Claude · PixiJS.
 - [Oyster Arcade](https://arcade.oyster.to/) - CRT-style arcade cabinet with four games, including Invaders and Carrier Defense, and shared leaderboards. Built with Claude Code · HTML5 Canvas.
 - [Pocket Salvage](https://pocket-salvage.web.app/) - Drive a swinging crane, swap between a magnet and a claw, and sort scrap into bins before the clock runs out, through five weather levels. Built with Claude, Codex · Godot.
