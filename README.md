@@ -52,6 +52,7 @@ Hand-picked AI games, grouped by genre. Each entry says what you do in the game.
 - [Lift & Coast](https://lift-and-coast.vercel.app/) - Race a 2026-rules Formula One car on real circuits through a full race weekend, managing tires, ERS and weather. Built with Three.js.
 - [Mars Landing Simulator](https://marslanding.vercel.app/) - Fly a rocket between Mars bases, managing fuel, tilt and wind to land safely. Built with Three.js.
 - [Neon Zenith](https://zenith.billpwchan.art/) - Fly a hover car out of a rainy night market through a neon Kowloon of 9,373 buildings, chasing medal time trials and hidden data shards. Built with Claude Code · Three.js.
+- [OpenAero DFW](https://mutaafaziz.com/openaero/) - Fly a Boeing 737-800, Cessna 172S or F-16C over real satellite imagery of Dallas-Fort Worth in today's METAR weather, with every landing graded. Built with Claude Code · Three.js.
 - [Swervle](https://swervle.com/) - Wordle-style racing game with a new procedurally generated 90-second route every day. Built with GPT-5.6, Claude Opus 5 · Three.js.
 - [The Great Taxi Assignment](https://great-taxi-assignment.netlify.app/) - GTA-style taxi game where you ferry passengers across a 3D city before time runs out. Vibe Jam 2025 winner. Built with Cursor, Claude 3.7 Sonnet · Three.js.
 - [Turbo Rumble](https://turborumble.rastwork.pl/) - Party racer where 2–8 players drift and fire at rivals on three 3D tracks, using keyboards, bots or phones as controllers. Built with Codex · Three.js, Rapier.
