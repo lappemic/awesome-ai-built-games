@@ -90,6 +90,7 @@ Hand-picked AI games, grouped by genre. Each entry says what you do in the game.
 - [Expo Tycoon](https://expotycoon.com/) - Idle tycoon game where you grow a trade show from one table to a full hall, with shared seasons that follow the moon and a net-worth leaderboard. Built with Claude Code · Three.js.
 - [Firewood Splitting Simulator](https://screen.toys/firewood/) - Tactile wood-chopping toy with a 3D-scanned stump, axe and logs, plus recorded sounds. Built with Claude · Three.js.
 - [Fishing](https://fishing.lureconcept.com/) - Sail across the open sea, cast lures for fish and spend coins on new lures. Built with Cursor, Claude, Grok · Three.js.
+- [HALFLIGHT](https://csaf.itch.io/halflight) - Run a vault of 43 decaying isotopes across five decay chains, where the decay pays you and a breach is a timed crisis you can still trade against. Built with HTML5 Canvas.
 - [Harness Hollow](https://harvest-hollow.up.railway.app/) - Co-op farming game for two, where you plant, raise animals and craft on one shared farm in real time, on desktop or phone. Built with Claude Code, Codex · Three.js.
 - [Inkline Town](https://inkline.typeonce.dev/) - City builder where you lay roads, house settlers and set up production chains to grow an island hamlet into a city, drawn in thin 3D line art. Built with Claude Code, Codex · Three.js.
 - [Kanso](https://www.kansogame.com/) - Cultivate living digital bonsai trees in calm, detailed scenes. Vibe Jam 2026 Most Zen award. Built with Three.js.
