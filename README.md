@@ -49,6 +49,7 @@ Hand-picked AI games, grouped by genre. Each entry says what you do in the game.
 - [Flight Simulator 2025](https://fly.pieter.com/) - Multiplayer flight sim where you take off, fly over a shared world and dogfight other players. Built with Cursor, Grok 3 · Three.js.
 - [Formula Minus One](https://fm1.moises.cloud/) - Futuristic racer inspired by F-Zero and Wipeout, rendered with WebGPU. Built with Codex, Claude · Three.js.
 - [FULL SEND](https://fullsend.game/) - Instant-loading racer with scenery from OpenStreetMap, online multiplayer and lap leaderboards. Vibe Jam 2026 Most Portal Transfers award. Built with Cursor, Claude · HTML5 Canvas.
+- [Kart Rush](https://stevkazt.github.io/kart-rush/) - Cartoon kart racing in a phone browser against five rivals on seven tracks, with items, drifting and a Grand Prix, its models, textures and sound all generated in code. Built with Claude Code · Three.js, cannon-es.
 - [Lift & Coast](https://lift-and-coast.vercel.app/) - Race a 2026-rules Formula One car on real circuits through a full race weekend, managing tires, ERS and weather. Built with Three.js.
 - [Mars Landing Simulator](https://marslanding.vercel.app/) - Fly a rocket between Mars bases, managing fuel, tilt and wind to land safely. Built with Three.js.
 - [Neon Zenith](https://zenith.billpwchan.art/) - Fly a hover car out of a rainy night market through a neon Kowloon of 9,373 buildings, chasing medal time trials and hidden data shards. Built with Claude Code · Three.js.
