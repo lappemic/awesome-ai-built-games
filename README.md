@@ -73,19 +73,24 @@ Hand-picked AI games, grouped by genre. Each entry says what you do in the game.
 - [Legends of Future Past](https://lofp.metavert.io/) - Lost 1992 CompuServe multiplayer adventure, rebuilt from surviving scripts, manuals and recordings. Built with Claude Code.
 - [MAGICAL.EXE](https://magical-exe.redmint.studio/) - Cozy magical-girl RPG in a fake terminal, where you type commands to explore your city and clear corrupted dungeons, with dice-based combat and an AI narrator. Built with Claude Code.
 - [Rogue Memory](https://quantumcodemonk.itch.io/rogue-memory) - First-person roguelike where a deleted AI recovers memory fragments across five procedurally generated layers, with turn-based combat and three endings. AI Browser Game Jam 1 joint winner. Built with Claude · HTML5 Canvas.
+- [Sakura Fantasy (桜幻想)](https://sakura.billpwchan.art/) - Ride a boat down a Japanese river valley through the four seasons, from spring blossom to a winter night, and watch or take the camera to stop and look. Built with Claude Code · Three.js.
 - [San Francisco -- The Game](https://sf.thijs.gg/) - Explore San Francisco rebuilt from Apple Maps data: climb buildings, take cars and play with others. Built with Codex · Three.js.
 - [Stellar Drift](https://stellar-drift.web.app/) - Mine asteroids for iron, gold and crystal, upgrade your ship and travel through wormholes. Built with Three.js.
 - [Tiny Skies](https://tinyskies.vercel.app/) - Cozy multiplayer exploration of a tiny world by biplane, magic carpet or boat. Vibe Jam 2026 Most Polished award. Built with Cursor · Three.js.
+- [Utsuroi](https://utsuroi.billpwchan.art/) - Walk a Kyoto house and garden from before dawn to night, where scrolling is the clock and the sun moves as you go from room to room. Built with Claude Code · Three.js.
 - [World of ClaudeCraft](https://worldofclaudecraft.com/) - Open-source, classic-style browser MMORPG with nine classes, quests, dungeons, raids and PvP. Has an optional crypto token. Built with Claude · Three.js.
 
 ### Simulation & Strategy
 
 - [2 Minute Drill Game](https://2minutedrillgame.app/) - Call every play in a real late-game NFL drive and see each call graded on win probability against the best option and the real head coach's choice. Built with Claude Code · Next.js.
 - [A Guilda](https://labiel1.itch.io/a-guilda) - Run a failing fantasy guild by choosing who goes on each mission, as the heroes' bonds, scars and choices change the story. Download for Windows or Android. Built with Godot.
+- [AI Axis & Allies](https://hayneian000.github.io/axis-allies-ai/) - Axis & Allies-style strategy on the 1942 world board or a smaller America free-for-all, hot-seat or against LLM generals that negotiate and can break their deals. Built with Muse · TypeScript, Vite.
 - [AI2U - Guns & Girlfriends](https://helixngc7293.itch.io/gandg) - Red Alert-style strategy game with base building, nukes and three rival factions. AI Browser Game Jam 4 runner-up. Built with Claude Code, Gemini · Three.js.
 - [Almost Surgery](https://almostsurgery.ragim.dev/) - Darkly comic surgery sim where you saw, cut and electrocute patients for money. Vibe Jam 2026 Most Cursed award. Built with Godot.
 - [Cream's Cozy Cottage](https://creamcozycottage.itch.io/creams-cozy-cottage) - Merge matching materials to craft treats, beds and toys and care for Cream the cat, in a free browser demo. Built with Codex · Godot.
 - [Dou Dizhu](https://doudizhu.pocketplay.win/) - The Chinese three-player card game Fight the Landlord: bid to become the landlord, then the two farmers team up against them, with computer players, a random online table or friends by room code. Built with Claude Code.
+- [DRAG UP YOUR BAR](https://ozajart.com/game.html) - Run a drag club: play the music, hype up the guests, serve cocktails, book drag queens and renovate, across three clubs in a free beta. Built with Claude · HTML5.
+- [Elsewhere Battles](https://apps.apple.com/us/app/elsewhere-battles/id6826332316) - Turn-based iPhone and iPad strategy where you gather resources, grow a fantasy settlement, recruit armies and conquer rival civilizations. Built with ChatGPT, Codex.
 - [Emoji Sim](https://emojisim.com/) - Watch emoji villagers gather wood, wool and meat, and place buildings to grow the village. Built with HTML5 Canvas.
 - [Expo Tycoon](https://expotycoon.com/) - Idle tycoon game where you grow a trade show from one table to a full hall, with shared seasons that follow the moon and a net-worth leaderboard. Built with Claude Code · Three.js.
 - [Firewood Splitting Simulator](https://screen.toys/firewood/) - Tactile wood-chopping toy with a 3D-scanned stump, axe and logs, plus recorded sounds. Built with Claude · Three.js.
@@ -119,6 +124,7 @@ Hand-picked AI games, grouped by genre. Each entry says what you do in the game.
 - [Hack://TheSystem](https://wietske.itch.io/hackthesystem) - Unsettling text-driven horror game where you try to hack a mysterious system through four puzzle stages and a final boss. Built with Claude Opus 5.5 · Unity.
 - [Ink Side Down](https://arkai.win/games/ink-side-down/) - Daily logic puzzle where you roll a cube so its inked face prints only the marked squares. Designed and coded end-to-end by an autonomous AI agent. Built with Claude Code · HTML5 Canvas.
 - [Jigsy](https://jigsy.app/) - Daily piece-fitting puzzle where you rotate and scale polyomino pieces to fill three new grids. Built with Claude.
+- [KAIJU DISPOSAL](https://csaf.itch.io/kaiju-disposal) - Clear a dead monster off a city street before it rots by cutting it up, sending each part to its buyer and racing the clock, across 12 contracts. Built with Claude Code · HTML5.
 - [Loop Heist](https://artigram.cafeboon.com/p/tn2w69k) - Puzzle game across six vaults where your previous run comes back as a ghost that holds pressure plates down while you walk through the door. Built with Claude · HTML5 Canvas.
 - [One Step Late](https://arkai.win/games/one-step-late/) - Daily logic puzzle where your shadow repeats your previous move and walks into the holes you avoid. Designed and coded end-to-end by an autonomous AI agent. Built with Claude Code · HTML5 Canvas.
 - [Sortaballs](https://sortaballs.vercel.app/) - Ball-sort puzzle with ten board modes and over 1,000 levels, each benchmarked against an optimal solver. Built with DeepSeek, OpenCode · React.
@@ -128,12 +134,14 @@ Hand-picked AI games, grouped by genre. Each entry says what you do in the game.
 - [WenWare](https://wen-ware.com/) - Time-travel GeoGuessr: explore 360° historical scenes and guess both the place and the year. Vibe Jam 2026 3rd place and Most Played award. Built with Codex · Three.js.
 - [Wildlife](https://wildlife-game.netlify.app/) - Tap groups of matching colored tiles within 25 turns, where bigger groups score more.
 - [Word God](https://www.experimentswithai.com/word-god-mindfulness-game.html) - Combine words, starting from primordial concepts, to unlock new ones and grow a universe.
+- [Word Spies](https://wordspies.com/) - Codenames-style word game where any seat can be a person or an LLM, giving or guessing one-word clues with and against models, with every clue graded 0-100. Built with Claude Code · React.
 
 ### Arcade & Retro
 
 - [AI WORMS](https://seymour8glass.itch.io/ai-worms) - Tap the glowing-eyed worms possessing your toaster, TV and lawnmower before they tunnel away, across eleven worlds that end in a boss fight in the Cloud. Built with Claude · HTML5 Canvas.
 - [Asteroid Assault](https://asteroid-ep9.pages.dev/) - Asteroids remake where you rotate, thrust and shoot rocks, grab power-ups and chase a global leaderboard. Built with HTML5 Canvas.
 - [BeetleJump](https://beetlejump.com/) - Multiplayer platformer race to climb to the top and become king. Vibe Jam 2026 Rage-Quit award. Built with Three.js.
+- [Deepmine](https://yjin94606-art.github.io/deepmine/) - Pixel-art drilling game where you dig down through a history of AI projects to uncover the portraits, recordings and documents buried in it. Built with Codex · HTML5 Canvas.
 - [Flappi Bird](https://flappi-bird.vercel.app/) - Flappy Bird in 3D with procedural obstacles, bee swarms, combos and power-ups. Built with Cursor, Claude, Grok · Three.js.
 - [Gravity](https://gravity.hertzmc.com/) - Grow a little planet with eyes from pebble to black hole by eating smaller space rocks, across six levels with boss fights plus an Endless mode, on phone or desktop. Built with Claude Code · HTML5 Canvas.
 - [Ophidian](https://ophidian.vercel.app/) - Minimalist Snake with on-screen arrow keys for mobile. Built with Claude · PixiJS.
