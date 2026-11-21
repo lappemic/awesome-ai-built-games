@@ -178,6 +178,7 @@ Game jams and sites with more AI-generated games. Some publish games from a sing
 - [Player1AI](https://player1ai.com/) - Curated directory of 500+ free browser games made with AI, filterable by phone, controller and multiplayer, with every Play link going to the creator's own page.
 - [Vibe Jam](https://vibejam.com/) - Annual browser game jam where AI must write most of the code, with over 2,000 entries across 2025 and 2026.
 - [vibecode.game](https://vibecode.game/vibe-coded-games) - Directory of vibe-coded games, filterable by AI tool, engine and genre.
+- [VibeGamer](https://vibegamer.io/) - Free browser games made with AI coding tools, each with a page crediting the maker and the AI model, browsable by genre and by model, in 13 languages, with Play links to the maker's own site.
 - [Whimcade](https://whimcade.com/) - An arcade of browser games created from one-paragraph prompts; an AI agent builds each game as a self-contained HTML5 bundle that creators can iterate on and publish. Free to play, no download or sign-up.
 - [Zadely](https://zadely.com/) - Hand-checked directory of free browser games built with AI coding agents, with pages crediting each game's creator, AI tools and engine, and Play links to the creator's own site.
 
