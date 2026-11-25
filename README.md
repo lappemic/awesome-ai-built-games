@@ -170,6 +170,7 @@ Agent setups, MCP servers, starter kits and assets for vibe coding games with Cl
 - [Unity-MCP](https://github.com/IvanMurzak/Unity-MCP) - Open-source MCP server connecting AI agents to the Unity Editor and runtime, with 100+ built-in tools.
 - [Unreal-MCP](https://github.com/IvanMurzak/Unreal-MCP) - Open-source MCP server connecting AI agents to Unreal Engine 5.7, editor and runtime (C++ plugin + .NET sidecar).
 - [viber3d](https://github.com/instructa/viber3d) - A modern starter kit for 3D browser games powered by React Three Fiber and Three.js.
+- [Vibes DIY](https://vibes.diy/) - Hosted app builder that turns a sentence into a playable browser game at a shareable link, with a CLI (`npx vibes-diy`) and MCP server for Claude Code and other agents.
 
 ## Directories
 
