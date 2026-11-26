@@ -188,6 +188,7 @@ Game jams and sites with more AI-generated games. Some publish games from a sing
 - [Player1AI](https://player1ai.com/) - Curated directory of 500+ free browser games made with AI, filterable by phone, controller and multiplayer, with every Play link going to the creator's own page.
 - [Vibe Jam](https://vibejam.com/) - Annual browser game jam where AI must write most of the code, with over 2,000 entries across 2025 and 2026.
 - [Vibe1Up](https://vibe1up.com/) - Free AI-made browser games with 10 new picks every morning, each linking to the creator's own page, with a daily link check that archives games that go offline.
+- [VibeBoard](https://vibeboardgames.com/) - Calendar of AI-friendly game jams from any host, plus an archive of 590+ AI-built browser games from past jams, each linking to its creator and browsable by AI tool.
 - [vibecode.game](https://vibecode.game/vibe-coded-games) - Directory of vibe-coded games, filterable by AI tool, engine and genre.
 - [VibeGamer](https://vibegamer.io/) - Free browser games made with AI coding tools, each with a page crediting the maker and the AI model, browsable by genre and by model, in 13 languages, with Play links to the maker's own site.
 - [VibeTopList](https://vibetoplist.com/) - Top vibe-coded games and AI-built indie games, ranked by player votes each month: 550+ browser, PC and mobile games, browsable by genre and platform, with Play links to each maker's own site.
