@@ -186,6 +186,7 @@ Game jams and sites with more AI-generated games. Some publish games from a sing
 - [OpenAI Developers Showcase: Games](https://developers.openai.com/showcase/games) - Official gallery of games built with Codex and GPT models, including the prompts behind them.
 - [OttersPlay](https://ottersplay.com/made-with-ai/) - Directory of AI-assisted browser games with creator credits, coding-tool and engine notes, controls, and links to the original games.
 - [Player1AI](https://player1ai.com/) - Curated directory of 500+ free browser games made with AI, filterable by phone, controller and multiplayer, with every Play link going to the creator's own page.
+- [RemadeByAI](https://remadebyai.com/categories/games/) - Hand-checked directory of AI-built apps with a games section of 59 titles, each crediting the maker with a link to the original.
 - [Vibe Jam](https://vibejam.com/) - Annual browser game jam where AI must write most of the code, with over 2,000 entries across 2025 and 2026.
 - [Vibe1Up](https://vibe1up.com/) - Free AI-made browser games with 10 new picks every morning, each linking to the creator's own page, with a daily link check that archives games that go offline.
 - [vibecode.game](https://vibecode.game/vibe-coded-games) - Directory of vibe-coded games, filterable by AI tool, engine and genre.
